@@ -9,6 +9,7 @@ yarn install:main # 安子应用
 yarn install:taobao # 安装子应用
 yarn install:baidu # 安装子应用
 
+yarn start:dev   # 开启所有应用
 yarn start:main   # 开启主应用
 yarn start:taobao   # 开启子应用
 yarn start:baidu   # 开启子应用
